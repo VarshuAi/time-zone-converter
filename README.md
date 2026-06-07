@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Check offsets and timezone adjustments instantly across capital grids.
+  name: time-zone-converter version: 1.0 type: Repository author: VarshuAi description: >   Check offsets and timezone adjustments instantly across capital grids. primary_tech: CSS
 primary_tech: CSS
 ```
 
